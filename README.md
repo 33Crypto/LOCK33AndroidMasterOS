@@ -1,3 +1,5 @@
+LOCK33 Development Organization's Android operating system.
+
 platform-samples
 ================
 
